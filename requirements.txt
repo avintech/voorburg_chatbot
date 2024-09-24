@@ -1,0 +1,9 @@
+undetected-chromedriver
+selenium 
+webdriver-manager
+pandas
+requests
+PyPDF2
+pytesseract
+pdf2image
+pillow
